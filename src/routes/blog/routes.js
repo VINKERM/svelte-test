@@ -2,15 +2,15 @@ export const routes = [
     {
         id: 1,
 
-        title: "My First Blog Post",
+        title: "TODO",
 
-        body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate",
+        body: "Простое и удобное приложение для организации задач. С его помощью вы можете легко создавать, отслеживать и завершать свои ежедневные задачи.",
     },
     {
         id: 2,
 
-        title: "My Second Blog Post",
+        title: "TODO",
 
-        body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate",
+        body: "Простое и удобное приложение для организации задач. С его помощью вы можете легко создавать, отслеживать и завершать свои ежедневные задачи.",
     },
 ];
