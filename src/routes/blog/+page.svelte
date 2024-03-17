@@ -19,7 +19,6 @@
 </div>
 
 <style>
-    <style>
     .container {
     margin: 50px auto;
     max-width: 800px;
