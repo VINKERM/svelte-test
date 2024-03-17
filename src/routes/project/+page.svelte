@@ -39,3 +39,7 @@
     color: rgb(10, 10, 139);
     }
     </style>
+
+<script>
+    import {routes} from './routes.js'
+</script>
