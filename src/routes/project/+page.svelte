@@ -19,6 +19,10 @@
 </div>
 </div>
 
+<script>
+    import {routes} from './routes.js'
+</script>
+
 <style>
     .container {
     margin: 50px auto;
@@ -39,7 +43,3 @@
     color: rgb(10, 10, 139);
     }
     </style>
-
-<script>
-    import {routes} from './routes.js'
-</script>
